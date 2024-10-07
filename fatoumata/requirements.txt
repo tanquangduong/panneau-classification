@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch
+torchvision==0.19.1
+torchsummary==1.5.1
+
+pandas==2.2.3
+scikit-learn==1.5.2
+matplotlib==3.9.2
+seaborn==0.13.2
+tqdm==4.66.5
+
+# For notebooks playground
+jupyterlab==4.0.9
+jupyter==1.0.0
+ipywidgets==8.1.1
